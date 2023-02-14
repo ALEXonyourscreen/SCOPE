@@ -54,6 +54,8 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
+![](space.png)
+
 > ` \ `  - Open Console
 
 ![](space.png)
@@ -76,8 +78,8 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 The keybinds are grouped by when these camera views are typically happening during a broadcast. The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot.
 
+![](space.png)
 
- \- Team 1 
 > `` ` `` - T1 Star Player
 >
 > ` 1 ` - T1 Player 1 - Assign ` Q `
@@ -90,7 +92,8 @@ The keybinds are grouped by when these camera views are typically happening duri
 > 
 > ` 5 ` - T1 Player 5 - Assign ` T `
 
- \- Team 2 
+![](space.png)
+
 > ` 6 ` - T2 Player 1 - Assign ` Y `
 > 
 > ` 7 ` - T2 Player 2 - Assign ` U `
@@ -103,6 +106,7 @@ The keybinds are grouped by when these camera views are typically happening duri
 >
 > ` - `  - T2 Star Player
 
+![](space.png)
 
 For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
 
@@ -115,6 +119,8 @@ Holding `shift` while pressing any of the **Player Cams** will move to the neare
 ## Action Cams
 
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
+
+![](space.png)
 
 > ` F1  ` - A Site
 > 
@@ -150,6 +156,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
+![](space.png)
+
 > `ins ` - CT Spawn Cams
 > 
 > `home` - CT Exit Cam 1
@@ -169,6 +177,8 @@ These are the only cameras expected to be used in a specific order during a broa
 ## Cinematic Cams
 
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
+
+![](space.png)
 
 > `num` - A Site Overviews
 > 
