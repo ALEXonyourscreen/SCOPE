@@ -12,9 +12,9 @@ Thanks for looking through the SCOPE, happy observing!
 
 ![](space.png)
 
-## Set Up
+## Installation
 
-Download **aoys_scope.zip** and extract the contents into your game directory's `/csgo/cfg` folder.
+Extract the contents of the .zip into your game directory's `/csgo/cfg` folder.
 
 After extracting, copy the contents from within the **cameras** folder, and paste them into your game directory's `/csgo/maps` folder. Be sure to replace any existing files.
 
