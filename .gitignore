@@ -1,5 +1,7 @@
-logo.xcf
-map/map_template.cfg
-core/debug.cfg
-autoexec.cfg
 releases
+autoexec.cfg
+logo.xcf
+
+map/map_template.cfg
+
+core/debug.cfg
