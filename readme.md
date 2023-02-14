@@ -43,10 +43,10 @@ After loading into the game server or demo you are going to be observing, open t
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
+ \- Console 
 > ` \ `  - Open Console
 
- _ 
-
+ \- Toggles 
 > ` Z `  - Switch to Free Cam
 > 
 > ` X `  - Toggle X-ray Mode
@@ -55,8 +55,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > 
 > ` V `  - Grenade Cam (hold)
 
- _ 
-
+ \- HUD 
 > ` H `  - Toggle HUD  
 
 
@@ -65,31 +64,31 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 The keybinds are grouped by when these camera views are typically happening during a broadcast. The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot.
 
 
-> `` ` `` - Team 1 - Star Player
+ \- Team 1 
+> `` ` `` - T1 Star Player
 >
-> ` 1 ` - Team 1 - Player 1 - Assign ` Q `
+> ` 1 ` - T1 Player 1 - Assign ` Q `
 > 
-> ` 2 ` - Team 1 - Player 2 - Assign ` W `
+> ` 2 ` - T1 Player 2 - Assign ` W `
 > 
-> ` 3 ` - Team 1 - Player 3 - Assign ` E `
+> ` 3 ` - T1 Player 3 - Assign ` E `
 > 
-> ` 4 ` - Team 1 - Player 4 - Assign ` R `
+> ` 4 ` - T1 Player 4 - Assign ` R `
 > 
-> ` 5 ` - Team 1 - Player 5 - Assign ` T `
+> ` 5 ` - T1 Player 5 - Assign ` T `
 
- _ 
-
-> ` 6 ` - Team 2 - Player 1 - Assign ` Y `
+ \- Team 2 
+> ` 6 ` - T2 Player 1 - Assign ` Y `
 > 
-> ` 7 ` - Team 2 - Player 2 - Assign ` U `
+> ` 7 ` - T2 Player 2 - Assign ` U `
 > 
-> ` 8 ` - Team 2 - Player 3 - Assign ` I `
+> ` 8 ` - T2 Player 3 - Assign ` I `
 > 
-> ` 9 ` - Team 2 - Player 4 - Assign ` O `
+> ` 9 ` - T2 Player 4 - Assign ` O `
 > 
-> ` 0 ` - Team 2 - Player 5 - Assign ` P `
+> ` 0 ` - T2 Player 5 - Assign ` P `
 >
-> ` - `  - Team 2 - Star Player
+> ` - `  - T2 Star Player
 
 
 For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
@@ -103,6 +102,7 @@ Holding `shift` while pressing any of the **Player Cams** will move to the neare
 
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
 
+ \- Bombsite A 
 > ` F1  ` - A Site
 > 
 > ` F2  ` - A Main
@@ -111,8 +111,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F4  ` - A Long
 
- _ 
-
+ \- Bombsite B
 > ` F5  ` - B Site
 > 
 > ` F6  ` - B Main
@@ -121,8 +120,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F8  ` - B Long
 
- _ 
-
+ \- Middle Map
 > ` F9  ` - Middle
 > 
 > ` F10 ` - Alt Middle
@@ -136,14 +134,14 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
+ \- Counter-Terrorists
 > `ins ` - CT Spawn Cams
 > 
 > `home` - CT Exit Cam 1
 > 
 > `pgup` - CT Exit Cam 2
 
- _ 
-
+ \- Terrorists
 > `del ` - T Spawn Cams
 > 
 > `end ` - T Exit Cam 1
@@ -155,6 +153,7 @@ These are the only cameras expected to be used in a specific order during a broa
 
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
 
+ \- Bombsite A
 > `num` - A Site Overviews
 > 
 > ` / ` - A Site Short
@@ -163,8 +162,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` - ` - A Site AWP Hold
 
- _ 
-
+ \- Bombsite B
 > ` 7 ` - B Site Overviews
 > 
 > ` 8 ` - B Site Short
@@ -173,24 +171,21 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` + ` - B Site AWP Hold
 
- _ 
-
+ \- Middle Map
 > ` 4 ` - Middle Overview
 > 
 > ` 5 ` - Middle to A
 > 
 > ` 6 ` - Middle to B
 
- _ 
-
+ \- Popular Areas
 > ` 1 ` - Gameplay Point 1
 > 
 > ` 2 ` - Gameplay Point 2
 > 
 > ` 3 ` - Gameplay Point 3
 
- _ 
-
+ \- Nice Views
 > ` 0 ` - Map Landmark 1
 > 
 > ` . ` - Map Landmark  2
