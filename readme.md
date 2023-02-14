@@ -9,57 +9,38 @@ All of these camera views are grouped in an intuitive way that is identical acro
 Thanks for looking through the SCOPE, happy observing!
 
 
-# Set Up
+## Set Up
 
 Download **aoys_scope.zip** and extract the contents into your game directory's `/csgo/cfg` folder.
 
 After extracting, copy the contents from within the **cameras** folder, and paste them into your game directory's `/csgo/maps` folder. Be sure to replace any existing files.
 
-___
+To uninstall, remove the two directories and two files within **/csgo/cfg** that begin with `aoys_`, then verify the game installation from within Steam.
+
+
+## Important Notice
 
 Ensure the following bind is in your **autoexec.cfg**:
 
     bind "`" "toggleconsole";
     
 IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS:GO CONSOLE.
+
 It is highly recommended to set **ALL** of your in-game keybinds and settings in your **autoexec.cfg**.
 
-___
 
-To uninstall, remove the two directories and two files within **/csgo/cfg** that begin with `aoys_`, then verify the game installation from within Steam.
-
-
-# Getting Started
+## Getting Started
 
 After loading into the game server or demo you are going to be observing, open the console and enter the following command using the common name of the map you are on, for example:
 
     exec aoys_scope/inferno
 
 
-# Supported Maps
+## Supported Maps
 
 All of the official competitive maps are included, with 40+ camera presets on each.
 
-\- Maps
-> Ancient
->
-> Anubis
->
-> Cache
-> 
-> Dust2
-> 
-> Inferno
-> 
-> Mirage
-> 
-> Nuke
-> 
-> Overpass
-> 
-> Train
-> 
-> Vertigo
+`Ancient` `Anubis` `Cache` `Dust2` `Inferno` `Mirage` `Nuke` `Overpass` `Train` `Vertigo`
 
 ## Toggles
 
