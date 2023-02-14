@@ -9,7 +9,7 @@ All of these camera views are grouped in an intuitive way that is identical acro
 Thanks for looking through the SCOPE, happy observing!
 
 
-## Set Up
+# Set Up
 
 Download **aoys_scope.zip** and extract the contents into your game directory's `/csgo/cfg` folder.
 
@@ -29,17 +29,39 @@ ___
 To uninstall, remove the two directories and two files within **/csgo/cfg** that begin with `aoys_`, then verify the game installation from within Steam.
 
 
-## Getting Started
+# Getting Started
 
 After loading into the game server or demo you are going to be observing, open the console and enter the following command using the common name of the map you are on, for example:
 
     exec aoys_scope/inferno
 
 
+# Supported Maps
 
-## Key Mappings
+All of the official competitive maps are included, with 40+ camera presets on each.
 
-### Toggles
+\- Maps
+> Ancient
+>
+> Anubis
+>
+> Cache
+> 
+> Dust2
+> 
+> Inferno
+> 
+> Mirage
+> 
+> Nuke
+> 
+> Overpass
+> 
+> Train
+> 
+> Vertigo
+
+## Toggles
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
@@ -59,7 +81,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > ` H `  - Toggle HUD  
 
 
-### Player Cams
+## Player Cams
 
 The keybinds are grouped by when these camera views are typically happening during a broadcast. The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot.
 
@@ -98,7 +120,7 @@ For hectic trading situations, the `spacebar` will quickly switch to the next li
 Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** to that player.
 
 
-### Action Cams
+## Action Cams
 
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
 
@@ -130,7 +152,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > ` F12 ` - Middle to T
 
 
-### Spawn Cams
+## Spawn Cams
 
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
@@ -149,7 +171,7 @@ These are the only cameras expected to be used in a specific order during a broa
 > `pgdn` - T Exit Cam 2
 
 
-### Cinematic Cams
+## Cinematic Cams
 
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
 
@@ -193,7 +215,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > `ent` - Map Landmark  3
 
 
-### Console Output
+## Console Output
 
 A visual representation of all of the camera keybinds used by SCOPE will appear in your console after running the command. If it appears as a jumbled mess of lines and characters, resize the console window to be larger and the display will appear as shown:
 
