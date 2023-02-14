@@ -38,8 +38,8 @@ After loading into the game server or demo you are going to be observing, open t
 ### Toggles
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
-` \ `  - Open Console  
-
+` \ `  - Open Console
+.  
 
 ` Z `  - Switch to Free Cam
 
@@ -47,8 +47,8 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 ` C `  - Crosshair Display (static/player)
 
-` V `  - Grenade Cam (hold)  
-
+` V `  - Grenade Cam (hold)
+.  
 
 ` H `  - Toggle HUD  
 
@@ -57,7 +57,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 The keybinds are grouped by when these camera views are typically happening during a broadcast. The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot.
 
 `` ` `` - Team 1 - Star Player
-
+.  
 
 ` 1 ` - Team 1 - Player 1 - Assign ` Q `
 
@@ -67,8 +67,8 @@ The keybinds are grouped by when these camera views are typically happening duri
 
 ` 4 ` - Team 1 - Player 4 - Assign ` R `
 
-` 5 ` - Team 1 - Player 5 - Assign ` T `  
-
+` 5 ` - Team 1 - Player 5 - Assign ` T `
+.  
 
 ` 6 ` - Team 2 - Player 1 - Assign ` Y `
 
@@ -79,7 +79,7 @@ The keybinds are grouped by when these camera views are typically happening duri
 ` 9 ` - Team 2 - Player 4 - Assign ` O `
 
 ` 0 ` - Team 2 - Player 5 - Assign ` P `
-
+.  
 
 ` - `  - Team 2 - Star Player
 
@@ -99,8 +99,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 ` F3  ` - A Short
 
-` F4  ` - A Long  
-
+` F4  ` - A Long
+.  
 
 ` F5  ` - B Site
 
@@ -108,8 +108,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 ` F7  ` - B Short
 
-` F8  ` - B Long  
-
+` F8  ` - B Long
+.  
 
 ` F9  ` - Middle
 
@@ -128,8 +128,8 @@ These are the only cameras expected to be used in a specific order during a broa
 
 `home` - CT Exit Cam 1
 
-`pgup` - CT Exit Cam 2  
-
+`pgup` - CT Exit Cam 2
+.  
 
 `del ` - T Spawn Cams
 
@@ -147,8 +147,8 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 
 ` * ` - A Site Long
 
-` - ` - A Site AWP Hold  
-
+` - ` - A Site AWP Hold
+.  
 
 ` 7 ` - B Site Overviews
 
@@ -156,28 +156,28 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 
 ` 9 ` - B Site Long
 
-` + ` - B Site AWP Hold  
-
+` + ` - B Site AWP Hold
+.  
 
 ` 4 ` - Middle Overview
 
 ` 5 ` - Middle to A
 
-` 6 ` - Middle to B  
-
+` 6 ` - Middle to B
+.  
 
 ` 1 ` - Gameplay Point 1
 
 ` 2 ` - Gameplay Point 2
 
-` 3 ` - Gameplay Point 3  
-
+` 3 ` - Gameplay Point 3
+.  
 
 ` 0 ` - Map Landmark 1
 
 ` . ` - Map Landmark  2
 
-`ent` - Map Landmark  3  
+`ent` - Map Landmark  3
 
 
 
