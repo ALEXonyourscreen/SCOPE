@@ -45,7 +45,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 > ` \ `  - Open Console
 
-> _ 
+ _ 
 
 > ` Z `  - Switch to Free Cam
 > 
@@ -55,7 +55,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > 
 > ` V `  - Grenade Cam (hold)
 
-> _ 
+ _ 
 
 > ` H `  - Toggle HUD  
 
