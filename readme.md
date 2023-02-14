@@ -58,6 +58,16 @@ To remove all of the configuration changes made by SCOPE and return to your pers
 
 ![](space.png)
 
+## Notes
+
+This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured **autoexec.cfg** with all of your personal settings, switching in and out of SCOPE should be as s1mple as entering the commands listed above.
+
+Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
+
+> <https://twitch.tv/ALEXonyourscreen>
+
+![](space.png)
+
 ## Toggles
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
@@ -84,35 +94,35 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 ## Player Cams
 
-The keybinds are grouped by when these camera views are typically happening during a broadcast. The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot.
+The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot. The **Star Player** slot is designed as a failsafe type of situation, where if things are heating up in game and you dont know how to best show the action, you always know you have a key assigned to the one player that has been lighting up the server since pistol round. 
 
 ![](space.png)
 
 > `` ` `` - T1 Star Player
 >
-> ` 1 ` - T1 Player 1 - Assign ` Q `
+> ` 1 ` - T1 Player 1 / Assign - ` Q `
 > 
-> ` 2 ` - T1 Player 2 - Assign ` W `
+> ` 2 ` - T1 Player 2 / Assign - ` W `
 > 
-> ` 3 ` - T1 Player 3 - Assign ` E `
+> ` 3 ` - T1 Player 3 / Assign - ` E `
 > 
-> ` 4 ` - T1 Player 4 - Assign ` R `
+> ` 4 ` - T1 Player 4 / Assign - ` R `
 > 
-> ` 5 ` - T1 Player 5 - Assign ` T `
+> ` 5 ` - T1 Player 5 / Assign - ` T `
 
 ![](space.png)
 
-> ` 6 ` - T2 Player 1 - Assign ` Y `
+> ` 6 ` - T2 Player 1 / Assign - ` Y `
 > 
-> ` 7 ` - T2 Player 2 - Assign ` U `
+> ` 7 ` - T2 Player 2 / Assign - ` U `
 > 
-> ` 8 ` - T2 Player 3 - Assign ` I `
+> ` 8 ` - T2 Player 3 / Assign - ` I `
 > 
-> ` 9 ` - T2 Player 4 - Assign ` O `
+> ` 9 ` - T2 Player 4 / Assign - ` O `
 > 
-> ` 0 ` - T2 Player 5 - Assign ` P `
+> ` 0 ` - T2 Player 5 / Assign - ` P `
 >
-> ` - `  - T2 Star Player
+> ` - ` - T2 Star Player
 
 ![](space.png)
 
@@ -289,15 +299,5 @@ A visual representation of all of the camera keybinds used by SCOPE will appear 
               |         | |         | |         | |         |          |     |                               |              |               |            
                ---------   ---------   ---------   ---------           |     |                               |              |               |            
                   Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------            
-
-![](space.png)
-
-## Notes
-
-This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured **autoexec.cfg** with all of your personal settings, switching in and out of SCOPE should be as entering the commands listed above.
-
-Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
-
-> <https://twitch.tv/ALEXonyourscreen>
 
 ![](space.png)
