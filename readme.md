@@ -50,6 +50,14 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 ![](space.png)
 
+## Return To Gameplay
+
+To remove all of the configuration changes made by SCOPE and return to your personal **autoexec.cfg** configuration, enter this command in the console:
+
+    exec aoys_scope/exit
+
+![](space.png)
+
 ## Toggles
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
@@ -281,14 +289,6 @@ A visual representation of all of the camera keybinds used by SCOPE will appear 
               |         | |         | |         | |         |          |     |                               |              |               |            
                ---------   ---------   ---------   ---------           |     |                               |              |               |            
                   Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------            
-
-![](space.png)
-
-## Return To Gameplay
-
-To remove all of the configuration changes made by SCOPE and return to your personal **autoexec.cfg** configuration, enter this command in the console:
-
-    exec aoys_scope/exit
 
 ![](space.png)
 
