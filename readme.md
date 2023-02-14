@@ -66,7 +66,7 @@ The keybinds are grouped by when these camera views are typically happening duri
 
 
 > `` ` `` - Team 1 - Star Player
-
+>
 > ` 1 ` - Team 1 - Player 1 - Assign ` Q `
 > 
 > ` 2 ` - Team 1 - Player 2 - Assign ` W `
@@ -77,6 +77,8 @@ The keybinds are grouped by when these camera views are typically happening duri
 > 
 > ` 5 ` - Team 1 - Player 5 - Assign ` T `
 
+ _ 
+
 > ` 6 ` - Team 2 - Player 1 - Assign ` Y `
 > 
 > ` 7 ` - Team 2 - Player 2 - Assign ` U `
@@ -86,7 +88,7 @@ The keybinds are grouped by when these camera views are typically happening duri
 > ` 9 ` - Team 2 - Player 4 - Assign ` O `
 > 
 > ` 0 ` - Team 2 - Player 5 - Assign ` P `
-
+>
 > ` - `  - Team 2 - Star Player
 
 
@@ -109,6 +111,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F4  ` - A Long
 
+ _ 
+
 > ` F5  ` - B Site
 > 
 > ` F6  ` - B Main
@@ -116,6 +120,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > ` F7  ` - B Short
 > 
 > ` F8  ` - B Long
+
+ _ 
 
 > ` F9  ` - Middle
 > 
@@ -136,6 +142,8 @@ These are the only cameras expected to be used in a specific order during a broa
 > 
 > `pgup` - CT Exit Cam 2
 
+ _ 
+
 > `del ` - T Spawn Cams
 > 
 > `end ` - T Exit Cam 1
@@ -155,6 +163,8 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` - ` - A Site AWP Hold
 
+ _ 
+
 > ` 7 ` - B Site Overviews
 > 
 > ` 8 ` - B Site Short
@@ -163,17 +173,23 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` + ` - B Site AWP Hold
 
+ _ 
+
 > ` 4 ` - Middle Overview
 > 
 > ` 5 ` - Middle to A
 > 
 > ` 6 ` - Middle to B
 
+ _ 
+
 > ` 1 ` - Gameplay Point 1
 > 
 > ` 2 ` - Gameplay Point 2
 > 
 > ` 3 ` - Gameplay Point 3
+
+ _ 
 
 > ` 0 ` - Map Landmark 1
 > 
