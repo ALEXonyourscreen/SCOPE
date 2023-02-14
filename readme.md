@@ -40,10 +40,15 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 ` \ `  - Open Console
 
+
 ` Z `  - Switch to Free Cam
+
 ` X `  - Toggle X-ray Mode
+
 ` C `  - Crosshair Display (static/player)
+
 ` V `  - Grenade Cam (hold)
+
 
 ` H `  - Toggle HUD
 
@@ -53,19 +58,31 @@ The keybinds are grouped by when these camera views are typically happening duri
 
 `` ` `` - Team 1 - Star Player
 
+
 ` 1 ` - Team 1 - Player 1 - Assign ` Q `
+
 ` 2 ` - Team 1 - Player 2 - Assign ` W `
+
 ` 3 ` - Team 1 - Player 3 - Assign ` E `
+
 ` 4 ` - Team 1 - Player 4 - Assign ` R `
+
 ` 5 ` - Team 1 - Player 5 - Assign ` T `
 
+
 ` 6 ` - Team 2 - Player 1 - Assign ` Y `
+
 ` 7 ` - Team 2 - Player 2 - Assign ` U `
+
 ` 8 ` - Team 2 - Player 3 - Assign ` I `
+
 ` 9 ` - Team 2 - Player 4 - Assign ` O `
+
 ` 0 ` - Team 2 - Player 5 - Assign ` P `
 
+
 ` - `  - Team 2 - Star Player
+
 
 For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
 
@@ -77,56 +94,91 @@ Holding `shift` while pressing any of the **Player Cams** will move to the neare
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
 
 ` F1  ` - A Site
+
 ` F2  ` - A Main
+
 ` F3  ` - A Short
+
 ` F4  ` - A Long
 
+
 ` F5  ` - B Site
+
 ` F6  ` - B Main
+
 ` F7  ` - B Short
+
 ` F8  ` - B Long
 
+
 ` F9  ` - Middle
+
 ` F10 ` - Alt Middle
+
 ` F11 ` - Middle to CT
+
 ` F12 ` - Middle to T
+
 
 
 ### Spawn Cams
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
 `ins ` - CT Spawn Cams
+
 `home` - CT Exit Cam 1
+
 `pgup` - CT Exit Cam 2
 
+
 `del ` - T Spawn Cams
+
 `end ` - T Exit Cam 1
+
 `pgdn` - T Exit Cam 2
+
 
 ### Cinematic Cams
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
 
 `num` - A Site Overviews
+
 ` / ` - A Site Short
+
 ` * ` - A Site Long
+
 ` - ` - A Site AWP Hold
 
+
 ` 7 ` - B Site Overviews
+
 ` 8 ` - B Site Short
+
 ` 9 ` - B Site Long
+
 ` + ` - B Site AWP Hold
 
+
 ` 4 ` - Middle Overview
+
 ` 5 ` - Middle to A
+
 ` 6 ` - Middle to B
 
+
 ` 1 ` - Gameplay Point 1
+
 ` 2 ` - Gameplay Point 2
+
 ` 3 ` - Gameplay Point 3
 
+
 ` 0 ` - Map Landmark 1
+
 ` . ` - Map Landmark  2
+
 `ent` - Map Landmark  3
+
 
 
 ### Console Output
@@ -198,5 +250,6 @@ To remove all of the configuration changes made by SCOPE and return to your pers
 This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured **autoexec.cfg** with all of your personal settings, switching in and out of SCOPE should be as entering the commands listed above.
 
 Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
+
 [https://twitch.tv/ALEXonyourscreen](https://twitch.tv/ALEXonyourscreen)
 
