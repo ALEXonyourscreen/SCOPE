@@ -8,6 +8,7 @@ All of these camera views are grouped in an intuitive way that is identical acro
 
 Thanks for looking through the SCOPE, happy observing!
 
+![](space.png)
 
 ## Set Up
 
@@ -17,6 +18,7 @@ After extracting, copy the contents from within the **cameras** folder, and past
 
 To uninstall, remove the two directories and two files within **/csgo/cfg** that begin with `aoys_`, then verify the game installation from within Steam.
 
+![](space.png)
 
 ## Important Notice
 
@@ -28,6 +30,7 @@ IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS:GO CONSOLE.
 
 It is highly recommended to set **ALL** of your in-game keybinds and settings in your **autoexec.cfg**.
 
+![](space.png)
 
 ## Getting Started
 
@@ -35,12 +38,15 @@ After loading into the game server or demo you are going to be observing, open t
 
     exec aoys_scope/inferno
 
+![](space.png)
 
 ## Supported Maps
 
 All of the official competitive maps are included, with 40+ camera presets on each.
 
 `Ancient` `Anubis` `Cache` `Dust2` `Inferno` `Mirage` `Nuke` `Overpass` `Train` `Vertigo`
+
+![](space.png)
 
 ## Toggles
 
@@ -61,6 +67,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
  \- HUD 
 > ` H `  - Toggle HUD  
 
+![](space.png)
 
 ## Player Cams
 
@@ -100,6 +107,7 @@ For hectic trading situations, the `spacebar` will quickly switch to the next li
 
 Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** to that player.
 
+![](space.png)
 
 ## Action Cams
 
@@ -132,6 +140,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F12 ` - Middle to T
 
+![](space.png)
 
 ## Spawn Cams
 
@@ -151,6 +160,7 @@ These are the only cameras expected to be used in a specific order during a broa
 > 
 > `pgdn` - T Exit Cam 2
 
+![](space.png)
 
 ## Cinematic Cams
 
@@ -195,6 +205,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > `ent` - Map Landmark  3
 
+![](space.png)
 
 ## Console Output
 
@@ -254,12 +265,15 @@ A visual representation of all of the camera keybinds used by SCOPE will appear 
                ---------   ---------   ---------   ---------           |     |                               |              |               |            
                   Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------            
 
-    
+![](space.png)
+
 ## Return To Gameplay
 
 To remove all of the configuration changes made by SCOPE and return to your personal **autoexec.cfg** configuration, enter this command in the console:
 
     exec aoys_scope/exit
+
+![](space.png)
 
 ## Notes
 
@@ -268,3 +282,5 @@ This system is designed to require no additional configuration beyond the initia
 Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
 
 > <https://twitch.tv/ALEXonyourscreen>
+
+![](space.png)
