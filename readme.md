@@ -94,7 +94,7 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 ## Player Cams
 
-The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot. The **Star Player** slot is designed as a failsafe type of situation, where if things are heating up in game and you dont know how to best show the action, you always know you have a key assigned to the one player that has been lighting up the server since pistol round. 
+The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot. The **Star Player** slot is designed as a failsafe type of situation, where if things are heating up in game and you dont know how to best show the action, you always know you have a key assigned to the one player that has been lighting up the server since pistol round. For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
 
 ![](space.png)
 
@@ -126,11 +126,15 @@ The number keys are assigned to each player in the game's **Player Cam**, and th
 
 ![](space.png)
 
-For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
+For hectic trading situations, the `spacebar` will quickly switch to the next living player. This can also be useful in 1v1 situations to quickly switch between the two remaining players in the server.
 
-For hectic trading situations, the `spacebar` will quickly switch to the next living player. This can also be useful in 1v1 situations to quickly switch between the two remaining players.
+Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** relative to that player.
 
-Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** to that player.
+![](space.png)
+
+> ` spacebar ` - Quick Switch
+> 
+> ` shift ` - Relative **Action Cam**
 
 ![](space.png)
 
@@ -140,23 +144,23 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 ![](space.png)
 
-> ` F1  ` - A Site
+> ` F1 ` - A Site
 > 
-> ` F2  ` - A Main
+> ` F2 ` - A Main
 > 
-> ` F3  ` - A Short
+> ` F3 ` - A Short
 > 
-> ` F4  ` - A Long
+> ` F4 ` - A Long
 
 ![](space.png)
 
-> ` F5  ` - B Site
+> ` F5 ` - B Site
 > 
-> ` F6  ` - B Main
+> ` F6 ` - B Main
 > 
-> ` F7  ` - B Short
+> ` F7 ` - B Short
 > 
-> ` F8  ` - B Long
+> ` F8 ` - B Long
 
 ![](space.png)
 
@@ -176,19 +180,19 @@ These are the only cameras expected to be used in a specific order during a broa
 
 ![](space.png)
 
-> `ins ` - CT Spawn Cams
+> ` ins ` - CT Spawn Cams
 > 
-> `home` - CT Exit Cam 1
+> ` home ` - CT Exit Cam 1
 > 
-> `pgup` - CT Exit Cam 2
+> ` pgup ` - CT Exit Cam 2
 
 ![](space.png)
 
-> `del ` - T Spawn Cams
+> ` del  ` - T Spawn Cams
 > 
-> `end ` - T Exit Cam 1
+> ` end  ` - T Exit Cam 1
 > 
-> `pgdn` - T Exit Cam 2
+> ` pgdn ` - T Exit Cam 2
 
 ![](space.png)
 
