@@ -1,5 +1,7 @@
 ![SCOPE Logo Splash](logo.png)
 
+![](space.png)
+
 The SCOPE CS:GO Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, FPL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
 
 The typical observer at a local LAN or online event will not have access to these vast resources, so SCOPE tries to bring as much of that production value to the vanilla game as possible. One person is now able to switch between first person player views and overhead shots of the map on the fly, and easily trigger cinematic flyover cameras around the map for when the action on the server comes to a pause.
@@ -52,10 +54,10 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
- \- Console 
 > ` \ `  - Open Console
 
- \- Toggles 
+![](space.png)
+
 > ` Z `  - Switch to Free Cam
 > 
 > ` X `  - Toggle X-ray Mode
@@ -64,7 +66,8 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > 
 > ` V `  - Grenade Cam (hold)
 
- \- HUD 
+![](space.png)
+
 > ` H `  - Toggle HUD  
 
 ![](space.png)
@@ -113,7 +116,6 @@ Holding `shift` while pressing any of the **Player Cams** will move to the neare
 
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
 
- \- Bombsite A 
 > ` F1  ` - A Site
 > 
 > ` F2  ` - A Main
@@ -122,7 +124,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F4  ` - A Long
 
- \- Bombsite B
+![](space.png)
+
 > ` F5  ` - B Site
 > 
 > ` F6  ` - B Main
@@ -131,7 +134,8 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F8  ` - B Long
 
- \- Middle Map
+![](space.png)
+
 > ` F9  ` - Middle
 > 
 > ` F10 ` - Alt Middle
@@ -146,14 +150,14 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
- \- Counter-Terrorists
 > `ins ` - CT Spawn Cams
 > 
 > `home` - CT Exit Cam 1
 > 
 > `pgup` - CT Exit Cam 2
 
- \- Terrorists
+![](space.png)
+
 > `del ` - T Spawn Cams
 > 
 > `end ` - T Exit Cam 1
@@ -166,7 +170,6 @@ These are the only cameras expected to be used in a specific order during a broa
 
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
 
- \- Bombsite A
 > `num` - A Site Overviews
 > 
 > ` / ` - A Site Short
@@ -175,7 +178,8 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` - ` - A Site AWP Hold
 
- \- Bombsite B
+![](space.png)
+
 > ` 7 ` - B Site Overviews
 > 
 > ` 8 ` - B Site Short
@@ -184,21 +188,24 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` + ` - B Site AWP Hold
 
- \- Middle Map
+![](space.png)
+
 > ` 4 ` - Middle Overview
 > 
 > ` 5 ` - Middle to A
 > 
 > ` 6 ` - Middle to B
 
- \- Popular Areas
+![](space.png)
+
 > ` 1 ` - Gameplay Point 1
 > 
 > ` 2 ` - Gameplay Point 2
 > 
 > ` 3 ` - Gameplay Point 3
 
- \- Nice Views
+![](space.png)
+
 > ` 0 ` - Map Landmark 1
 > 
 > ` . ` - Map Landmark  2
