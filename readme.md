@@ -38,19 +38,14 @@ After loading into the game server or demo you are going to be observing, open t
 ### Toggles
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
-` \ `  - Open Console
-.  
+> ` \ `  - Open Console
+ 
+> ` Z `  - Switch to Free Cam
+> ` X `  - Toggle X-ray Mode
+> ` C `  - Crosshair Display (static/player)
+> ` V `  - Grenade Cam (hold)
 
-` Z `  - Switch to Free Cam
-
-` X `  - Toggle X-ray Mode
-
-` C `  - Crosshair Display (static/player)
-
-` V `  - Grenade Cam (hold)
-.  
-
-` H `  - Toggle HUD  
+> ` H `  - Toggle HUD  
 
 
 ### Player Cams
