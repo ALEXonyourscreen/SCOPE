@@ -2,7 +2,7 @@
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-The SCOPE CS:GO Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, FPL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
+The SCOPE CS:GO Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, PGL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
 
 The typical observer at a local LAN or online event will not have access to these vast resources, so SCOPE tries to bring as much of that production value to the vanilla game as possible. One person is now able to switch between first person player views and overhead shots of the map on the fly, and easily trigger cinematic flyover cameras around the map for when the action on the server comes to a pause.
 
@@ -14,11 +14,11 @@ Thanks for looking through the SCOPE, happy observing!
 
 ## Installation
 
-Extract the **_contents_** of the .zip into your game directory's `/csgo/cfg` folder.
+Extract the **_contents_** of the downloaded .zip into `[game_install_dir] /csgo/cfg`.
 
-After extracting, copy the **_contents_** from within the `cameras` folder, and paste them into your game directory's `/csgo/maps` folder. Be sure to replace existing files.
+After extracting, copy the **_contents_** of `[game_install_dir] /csgo/cfg/cameras` and paste into `[game_install_dir] /csgo/maps`. Be sure to replace existing files.
 
-To uninstall, remove the two directories and two files within your game directory's `/csgo/cfg` folder that begin with `aoys_`, then verify the game installation from within Steam.
+To uninstall, remove `aoys_scope.cfg` and the `/aoys_scope` folder within `[game_install_dir] /csgo/cfg`, and verify the game installation within Steam.
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
