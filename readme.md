@@ -16,7 +16,10 @@ Thanks for looking through the SCOPE, happy observing!
 
 Extract the **_contents_** of the downloaded .zip into `[game_install_dir] /csgo/cfg`.
 
-After extracting, copy the **_contents_** of `[game_install_dir] /csgo/cfg/cameras` and paste into `[game_install_dir] /csgo/maps`. Be sure to replace existing files.
+After extracting, copy the **_contents_** of `[game_install_dir] /csgo/cfg/cameras` and paste into  
+`[game_install_dir] /csgo/maps`. Be sure to replace existing files.
+
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 To uninstall, remove `aoys_scope.cfg` and the `/aoys_scope` folder within `[game_install_dir] /csgo/cfg`, and verify the game installation within Steam.
 
