@@ -1,6 +1,6 @@
-![SCOPE Logo Splash](logo.png)
+![SCOPE Logo Splash](https://alexonyourscreen.com/app/img/scope_logo.png)
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 The SCOPE CS:GO Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, FPL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
 
@@ -10,7 +10,7 @@ All of these camera views are grouped in an intuitive way that is identical acro
 
 Thanks for looking through the SCOPE, happy observing!
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Installation
 
@@ -20,7 +20,7 @@ After extracting, copy the **_contents_** from within the `cameras` folder, and 
 
 To uninstall, remove the two directories and two files within your game directory's `/csgo/cfg` folder that begin with `aoys_`, then verify the game installation from within Steam.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Important Notice
 
@@ -32,7 +32,7 @@ IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS:GO CONSOLE.
 
 It is highly recommended to set **ALL** of your in-game keybinds and settings in your **autoexec.cfg**.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ After loading into the game server or demo you are going to be observing, open t
 
     exec aoys_scope/inferno
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Supported Maps
 
@@ -48,7 +48,7 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 `Ancient` `Anubis` `Cache` `Dust2` `Inferno` `Mirage` `Nuke` `Overpass` `Train` `Vertigo`
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Return To Gameplay
 
@@ -56,7 +56,7 @@ To remove all of the configuration changes made by SCOPE and return to your pers
 
     exec aoys_scope/exit
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Notes
 
@@ -66,17 +66,17 @@ Feel free to drop by my stream on Twitch any time you see me live if you have an
 
 > <https://twitch.tv/ALEXonyourscreen>
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Toggles
 
 There are a few toggle keybinds set by SCOPE that are not shown the the console reference in game. Most importantly the command to open the console has moved to the **backslash** key to prevent accidentally opening the console during a broadcast.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` \ `  - Open Console
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` Z `  - Switch to Free Cam
 > 
@@ -86,17 +86,17 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > 
 > ` V `  - Grenade Cam (hold)
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` H `  - Toggle HUD  
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Player Cams
 
 The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot. The **Star Player** slot is designed as a failsafe type of situation, where if things are heating up in game and you dont know how to best show the action, you always know you have a key assigned to the one player that has been lighting up the server since pistol round. For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > `` ` `` - T1 Star Player
 >
@@ -110,7 +110,7 @@ The number keys are assigned to each player in the game's **Player Cam**, and th
 > 
 > ` 5 ` - T1 Player 5 / Assign - ` T `
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` 6 ` - T2 Player 1 / Assign - ` Y `
 > 
@@ -124,25 +124,25 @@ The number keys are assigned to each player in the game's **Player Cam**, and th
 >
 > ` - ` - T2 Star Player
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 For hectic trading situations, the `spacebar` will quickly switch to the next living player. This can also be useful in 1v1 situations to quickly switch between the two remaining players in the server.
 
 Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** relative to that player.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` spacebar ` - Quick Switch
 > 
 > ` shift ` - Relative **Action Cam**
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Action Cams
 
 The Function Keys are assigned to **Action Cams**, grouped by areas on the map. These are nearly static overviews of key areas used to display team formations or various strategy around the map. Player X-rays are shown on all of these cameras.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` F1 ` - A Site
 > 
@@ -152,7 +152,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F4 ` - A Long
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` F5 ` - B Site
 > 
@@ -162,7 +162,7 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F8 ` - B Long
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` F9  ` - Middle
 > 
@@ -172,13 +172,13 @@ The Function Keys are assigned to **Action Cams**, grouped by areas on the map. 
 > 
 > ` F12 ` - Middle to T
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Spawn Cams
 
 These are the only cameras expected to be used in a specific order during a broadcast. The **Spawn Cams** are grouped by which team is to be viewed. These cameras are best utilized in-between rounds, and at the very beginning of a round. The order is set as **Spawn Cams** > **Exit Cam 1** > **Exit Cam 2**. The player X-rays will be hidden for the spawn cams, and shown for the exit cams.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` ins ` - CT Spawn Cams
 > 
@@ -186,7 +186,7 @@ These are the only cameras expected to be used in a specific order during a broa
 > 
 > ` pgup ` - CT Exit Cam 2
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` del  ` - T Spawn Cams
 > 
@@ -194,13 +194,13 @@ These are the only cameras expected to be used in a specific order during a broa
 > 
 > ` pgdn ` - T Exit Cam 2
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Cinematic Cams
 
 These cameras are expected to be used at the end of rounds (during a save, or when the bomb is about to detonate and players are evacuating the site) and during timeouts. These binds are grouped horizontally across the Numpad. The player X-rays will be hidden for these cameras.
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > `num` - A Site Overviews
 > 
@@ -210,7 +210,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` - ` - A Site AWP Hold
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` 7 ` - B Site Overviews
 > 
@@ -220,7 +220,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` + ` - B Site AWP Hold
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` 4 ` - Middle Overview
 > 
@@ -228,7 +228,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` 6 ` - Middle to B
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` 1 ` - Gameplay Point 1
 > 
@@ -236,7 +236,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > ` 3 ` - Gameplay Point 3
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 > ` 0 ` - Map Landmark 1
 > 
@@ -244,7 +244,7 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 > 
 > `ent` - Map Landmark  3
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Console Output
 
@@ -304,4 +304,4 @@ A visual representation of all of the camera keybinds used by SCOPE will appear 
                ---------   ---------   ---------   ---------           |     |                               |              |               |            
                   Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------            
 
-![](space.png)
+![](https://alexonyourscreen.com/app/img/scope_space.png)
