@@ -1,9 +1,6 @@
-releases
-
 scope_logo.xcf
 scope_logo.png
 scope_space.png
 
-autoexec.cfg
-map/map_template.cfg
+cams/map_template.cfg
 core/debug.cfg
