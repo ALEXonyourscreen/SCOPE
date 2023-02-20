@@ -36,7 +36,7 @@ It is highly recommended to set **ALL** of your in-game keybinds and settings in
 
 After loading into the game server or demo you are going to be observing, open the console and enter the following command using the common name of the map you are on, for example:
 
-    exec aoys_scope/inferno
+    exec scope/inferno
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -52,7 +52,7 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 To remove all of the configuration changes made by SCOPE and return to your personal `autoexec.cfg` configuration, enter this command in the console:
 
-    exec aoys_scope/exit
+    exec scope/exit
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
