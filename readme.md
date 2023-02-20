@@ -16,8 +16,6 @@ Thanks for looking through the SCOPE, happy observing!
 
 Extract the the downloaded .zip into your **CS:GO Install Directory**.
 
-![](https://alexonyourscreen.com/app/img/scope_space.png)
-
 To uninstall, remove `[game_install_dir] /csgo/cfg/scope.cfg` and the `[game_install_dir] /csgo/cfg/scope/` driectory and verify the game installation within Steam.
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
