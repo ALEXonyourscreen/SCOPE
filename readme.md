@@ -14,26 +14,23 @@ Thanks for looking through the SCOPE, happy observing!
 
 ## Installation
 
-Extract the **_contents_** of the downloaded .zip into `[game_install_dir] /csgo/cfg`.
-
-After extracting, copy the **_contents_** of `[game_install_dir] /csgo/cfg/cameras` and paste into  
-`[game_install_dir] /csgo/maps`. Be sure to replace existing files.
+Extract the the downloaded .zip into your **CS:GO Install Directory**.
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-To uninstall, remove `aoys_scope.cfg` and the `/aoys_scope` folder within `[game_install_dir] /csgo/cfg`, and verify the game installation within Steam.
+To uninstall, remove `[game_install_dir] /csgo/cfg/scope.cfg` and the `[game_install_dir] /csgo/cfg/scope/` driectory and verify the game installation within Steam.
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Important Notice
 
-Ensure the following bind is in your **autoexec.cfg**:
+Ensure the following bind is in your `[game_install_dir] /csgo/cfg/autoexec.cfg`:
 
     bind "`" "toggleconsole";
     
 IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS:GO CONSOLE.
 
-It is highly recommended to set **ALL** of your in-game keybinds and settings in your **autoexec.cfg**.
+It is highly recommended to set **ALL** of your in-game keybinds and settings in your `[game_install_dir] /csgo/cfg/autoexec.cfg`.
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -55,7 +52,7 @@ All of the official competitive maps are included, with 40+ camera presets on ea
 
 ## Return To Gameplay
 
-To remove all of the configuration changes made by SCOPE and return to your personal **autoexec.cfg** configuration, enter this command in the console:
+To remove all of the configuration changes made by SCOPE and return to your personal `autoexec.cfg` configuration, enter this command in the console:
 
     exec aoys_scope/exit
 
@@ -63,7 +60,7 @@ To remove all of the configuration changes made by SCOPE and return to your pers
 
 ## Notes
 
-This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured **autoexec.cfg** with all of your personal settings, switching in and out of SCOPE should be as s1mple as entering the commands listed above.
+This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured `autoexec.cfg` with all of your personal settings, switching in and out of SCOPE should be as s1mple as entering the commands listed above.
 
 Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
 
