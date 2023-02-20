@@ -2,5 +2,5 @@ scope_logo.xcf
 scope_logo.png
 scope_space.png
 
-cams/map_template.cfg
-core/debug.cfg
+scope/cams/map_template.cfg
+scope/core/debug.cfg
