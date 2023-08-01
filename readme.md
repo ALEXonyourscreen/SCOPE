@@ -92,35 +92,29 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 
 ## Player Cams
 
-The number keys are assigned to each player in the game's **Player Cam**, and the row underneath is for assigning those players to their respective team's **Star Player** slot. The **Star Player** slot is designed as a failsafe type of situation, where if things are heating up in game and you dont know how to best show the action, you always know you have a key assigned to the one player that has been lighting up the server since pistol round. For example, to assign *Player 3* from *Team 2* to the **Star Player** slot, press ` I `.
+The number keys are assigned to each player in the game's **Player Cam**. This is configured exactly as the default game settings, so the core components of observing a game of Counter-Strike do not change for a new SCOPE user. Explore the config's other cameras and features at your own leisure!
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> `` ` `` - T1 Star Player
+> ` 1 ` - Player 1
+> 
+> ` 2 ` - Player 2
+> 
+> ` 3 ` - Player 3
+> 
+> ` 4 ` - Player 4
+> 
+> ` 5 ` - Player 5
 >
-> ` 1 ` - T1 Player 1 / Assign - ` Q `
+> ` 6 ` - Player 6
 > 
-> ` 2 ` - T1 Player 2 / Assign - ` W `
+> ` 7 ` - Player 7
 > 
-> ` 3 ` - T1 Player 3 / Assign - ` E `
+> ` 8 ` - Player 8
 > 
-> ` 4 ` - T1 Player 4 / Assign - ` R `
+> ` 9 ` - Player 9
 > 
-> ` 5 ` - T1 Player 5 / Assign - ` T `
-
-![](https://alexonyourscreen.com/app/img/scope_space.png)
-
-> ` 6 ` - T2 Player 1 / Assign - ` Y `
-> 
-> ` 7 ` - T2 Player 2 / Assign - ` U `
-> 
-> ` 8 ` - T2 Player 3 / Assign - ` I `
-> 
-> ` 9 ` - T2 Player 4 / Assign - ` O `
-> 
-> ` 0 ` - T2 Player 5 / Assign - ` P `
->
-> ` - ` - T2 Star Player
+> ` 0 ` - Player 0
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -256,13 +250,6 @@ A visual representation of all of the camera keybinds used by SCOPE will appear 
      |    `    | |    1    | |    2    | |    3    | |    4    | |    5    |  |  |    6    | |    7    | |    8    | |    9    | |    0    | |    -    | 
      |         | |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         | |         | 
       ---------   ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------   ---------  
-          ^         ---------   ---------   ---------   ---------   ---------  \    ---------   ---------   ---------   ---------   ---------      ^     
-         / \       |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         |    / \    
-          |        |    Q    | |    W    | |    E    | |    R    | |    T    |  |  |    Y    | |    U    | |    I    | |    O    | |    P    |     |     
-          |_____   |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         | ____|     
-                    ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------            
-                                     Team 1 - Set Star Player                   |                    Team 2 - Set Star Player            
-
 
                                ACTION CAMS                             |                             CINEMATIC CAMS                                      
                --------------------------------------------------      |      --------------------------------------------------------------             
