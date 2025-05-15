@@ -2,7 +2,7 @@
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-The SCOPE CS:GO Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, PGL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
+The SCOPE CS2 Observer System has been designed from the ground up to give any individual the tools to observe with the modern standards of todays E-sports world. Major TOs such as ESL, PGL, and Blast not only have multiple observers for their events; but also have software that modifies the game itself, as well as custom designed HUDs that directly sync in with their overall broadcast package.
 
 The typical observer at a local LAN or online event will not have access to these vast resources, so SCOPE tries to bring as much of that production value to the vanilla game as possible. One person is now able to switch between first person player views and overhead shots of the map on the fly, and easily trigger cinematic flyover cameras around the map for when the action on the server comes to a pause.
 
@@ -14,7 +14,7 @@ Thanks for looking through the SCOPE, happy observing!
 
 ## Installation
 
-Extract the the downloaded .zip into your **CS:GO Install Directory**.
+Extract the the downloaded .zip into your **CS2 Install Directory**.
 
 To uninstall, remove `[game_install_dir] /csgo/cfg/scope.cfg` and the `[game_install_dir] /csgo/cfg/scope/` driectory and verify the game installation within Steam.
 
@@ -26,7 +26,7 @@ Ensure the following bind is in your `[game_install_dir] /csgo/cfg/autoexec.cfg`
 
     bind "`" "toggleconsole";
     
-IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS:GO CONSOLE.
+IF THIS LINE IS NOT INCLUDED YOU CAN LOSE ACCESS TO THE CS2 CONSOLE.
 
 It is highly recommended to set **ALL** of your in-game keybinds and settings in your `[game_install_dir] /csgo/cfg/autoexec.cfg`.
 
@@ -36,7 +36,7 @@ It is highly recommended to set **ALL** of your in-game keybinds and settings in
 
 After loading into the game server or demo you are going to be observing, open the console and enter the following command using the common name of the map you are on, for example:
 
-    exec scope/inferno
+    exec scope/dust2
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -44,7 +44,7 @@ After loading into the game server or demo you are going to be observing, open t
 
 All of the official competitive maps are included, with 40+ camera presets on each.
 
-`Ancient` `Anubis` `Cache` `Dust2` `Inferno` `Mirage` `Nuke` `Overpass` `Train` `Vertigo`
+`Ancient` `Anubis` `Dust2` `Inferno` `Mirage` `Nuke` `Train`
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -58,7 +58,7 @@ To remove all of the configuration changes made by SCOPE and return to your pers
 
 ## Notes
 
-This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS:GO. As long as you have a fully configured `autoexec.cfg` with all of your personal settings, switching in and out of SCOPE should be as s1mple as entering the commands listed above.
+This system is designed to require no additional configuration beyond the initial installation, and be a fully 'in-the-box' solution for observing CS2. As long as you have a fully configured `autoexec.cfg` with all of your personal settings, switching in and out of SCOPE should be as s1mple as entering the commands listed above.
 
 Feel free to drop by my stream on Twitch any time you see me live if you have any questions, or just want to say hello!
 
@@ -82,11 +82,13 @@ There are a few toggle keybinds set by SCOPE that are not shown the the console 
 > 
 > ` C `  - Crosshair Display (static/player)
 > 
-> ` V `  - Grenade Cam (hold)
+> ` V `  - Autodirector Mode
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> ` H `  - Toggle HUD  
+> ` H `  - Toggle Gameplay HUD  
+
+> ` J `  - Toggle Demo HUD  
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -115,18 +117,6 @@ The number keys are assigned to each player in the game's **Player Cam**. This i
 > ` 9 ` - Player 9
 > 
 > ` 0 ` - Player 0
-
-![](https://alexonyourscreen.com/app/img/scope_space.png)
-
-For hectic trading situations, the `spacebar` will quickly switch to the next living player. This can also be useful in 1v1 situations to quickly switch between the two remaining players in the server.
-
-Holding `shift` while pressing any of the **Player Cams** will move to the nearest **Action Cam** relative to that player.
-
-![](https://alexonyourscreen.com/app/img/scope_space.png)
-
-> ` spacebar ` - Quick Switch
-> 
-> ` shift ` - Relative **Action Cam**
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
@@ -194,99 +184,90 @@ These cameras are expected to be used at the end of rounds (during a save, or wh
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> `num` - A Site Overviews
+> ` 7 ` - A Site Overviews
 > 
-> ` / ` - A Site Short
+> ` 8 ` - A Site Short
 > 
-> ` * ` - A Site Long
-> 
-> ` - ` - A Site AWP Hold
+> ` 9 ` - A Site Long
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> ` 7 ` - B Site Overviews
+> ` 4 ` - B Site Overviews
 > 
-> ` 8 ` - B Site Short
+> ` 5 ` - B Site Short
 > 
-> ` 9 ` - B Site Long
-> 
-> ` + ` - B Site AWP Hold
+> ` 6 ` - B Site Long
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> ` 4 ` - Middle Overview
+> ` 1 ` - Middle Overview
 > 
-> ` 5 ` - Middle to A
+> ` 2 ` - Middle to A
 > 
-> ` 6 ` - Middle to B
+> ` 3 ` - Middle to B
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
-> ` 1 ` - Gameplay Point 1
+> ` + ` - Map Landmark 1
 > 
-> ` 2 ` - Gameplay Point 2
+> `ent` - Map Landmark  2
 > 
-> ` 3 ` - Gameplay Point 3
-
-![](https://alexonyourscreen.com/app/img/scope_space.png)
-
-> ` 0 ` - Map Landmark 1
+> ` 0 ` - Decorative 1
 > 
-> ` . ` - Map Landmark  2
-> 
-> `ent` - Map Landmark  3
+> ` . ` - Decorative 2
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
 
 ## Console Output
 
 A visual representation of all of the camera keybinds used by SCOPE will appear in your console after running the command. If it appears as a jumbled mess of lines and characters, resize the console window to be larger and the display will appear as shown:
-
-
-
-       T1-Star      T1-P1       T1-P2       T1-P3       T1-P4       T1-P5     |     T3-P1       T2-P2       T2-P3       T2-P4       T2-P5      T2-Star   
-      ---------   ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------   ---------  
-     |         | |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         | |         | 
-     |    `    | |    1    | |    2    | |    3    | |    4    | |    5    |  |  |    6    | |    7    | |    8    | |    9    | |    0    | |    -    | 
-     |         | |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         | |         | 
-      ---------   ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------   ---------  
-
-                               ACTION CAMS                             |                             CINEMATIC CAMS                                      
-               --------------------------------------------------      |      --------------------------------------------------------------             
-              |                |                |                |     |     |                |              |              |               |            
-              |                |                |                |     |     |                |              |              |               |            
-              |   CT Overview  |    CT Exit 1   |    CT Exit 2   |     |     |   A Overview   |    A Long    |    A Short   |   AWP Hold A  |            
-              |      (ins)     |     (home)     |     (pgup)     |     |     |    (numlock)   |     (/)      |     (*)      |      (-)      |            
-              |                |                |                |     |     |                |              |              |               |            
-              |                |                |                |     |     |                |              |              |               |            
-               --------------------------------------------------      |      ----------------------------------------------|---------------             
-              |                |                |                |     |     |                |              |              |               |            
-              |                |                |                |     |     |                |              |              |               |            
-              |   T Overview   |    T Exit 1    |    T Exit 2    |     |     |   B Overview   |    B Long    |    B Short   |   AWP Hold B  |            
-              |      (del)     |      (end)     |     (pgdn)     |     |     |       (7)      |     (8)      |     (9)      |      (+)      |            
-              |                |                |                |     |     |                |              |              |               |            
-              |                |                |                |     |     |                |              |              |               |            
-               --------------------------------------------------      |      ==============================================                |            
-                                                                       |     |                |              |              ║               |            
-               ---------   ---------   ---------   ---------           |     |                |              |              ║               |            
-              |         | |         | |         | |         |          |     |  Mid Overview  |    Mid > A   |    Mid > B   ║               |            
-              |   F1    | |   F2    | |   F3    | |   F4    |          |     |       (4)      |     (5)      |     (6)      ║               |            
-              |         | |         | |         | |         |          |     |                |              |              ║               |            
-               ---------   ---------   ---------   ---------           |     |                |              |              ║               |            
-                A Over      A Main      A Short      A Long            |      --------------------------------------------- ║ ==============             
-                                                                       |     |                |              |              ║               |            
-               ---------   ---------   ---------   ---------           |     |                |              |              ║               |            
-              |         | |         | |         | |         |          |     |  Chokepoint 1  | Chokepoint 2 | Chokepoint 3 ║               |            
-              |   F5    | |   F6    | |   F7    | |   F8    |          |     |       (1)      |     (2)      |     (3)      ║               |            
-              |         | |         | |         | |         |          |     |                |              |              ║               |            
-               ---------   ---------   ---------   ---------           |     |                |              |              ║               |            
-                B Over      B Main      B Short      B Long            |      ==============================================                |            
-                                                                       |     |                               |              |               |            
-               ---------   ---------   ---------   ---------           |     |                               |              |               |            
-              |         | |         | |         | |         |          |     |           Landmark 1          |  Landmark 2  |   Landmark 3  |            
-              |   F9    | |   F10   | |   F11   | |   F12   |          |     |              (0)              |      (.)     |    (enter)    |            
-              |         | |         | |         | |         |          |     |                               |              |               |            
-               ---------   ---------   ---------   ---------           |     |                               |              |               |            
-                  Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------            
+_______________________________________________________________________________________________________________________________________________
+                                                                   |                                                                           
+         T1-P1       T1-P2       T1-P3       T1-P4       T1-P5     |     T3-P1       T2-P2       T2-P3       T2-P4       T2-P5                 
+       ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------               
+      |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         |              
+      |    1    | |    2    | |    3    | |    4    | |    5    |  |  |    6    | |    7    | |    8    | |    9    | |    0    |              
+      |         | |         | |         | |         | |         |  |  |         | |         | |         | |         | |         |              
+       ---------   ---------   ---------   ---------   ---------   |   ---------   ---------   ---------   ---------   ---------               
+_______________________________________________________________________________________________________________________________________________
+                                                                   |                                                                           
+                              SPAWN CAMS                           |                             CINEMATIC CAMS                                
+           --------------------------------------------------      |      --------------------------------------------------------------       
+          |                |                |                |     |     |                |              |              |               |      
+          |                |                |                |     |     |                |              |              |               |      
+          |   CT Overview  |    CT Exit 1   |    CT Exit 2   |     |     |                |              |              |               |      
+          |      (ins)     |     (home)     |     (pgup)     |     |     |    (numlock)   |     (/)      |     (*)      |      (-)      |      
+          |                |                |                |     |     |                |              |              |               |      
+          |                |                |                |     |     |                |              |              |               |      
+           --------------------------------------------------      |      ============================================== ===============       
+          |                |                |                |     |     |                |              |              |               |      
+          |                |                |                |     |     |                |              |              |               |      
+          |   T Overview   |    T Exit 1    |    T Exit 2    |     |     |   A Overview   |   A Short    |    A Long    |   Landmark 1  |      
+          |      (del)     |      (end)     |     (pgdn)     |     |     |       (7)      |     (8)      |     (9)      |      (+)      |      
+          |                |                |                |     |     |                |              |              |               |      
+          |                |                |                |     |     |                |              |              |               |      
+           --------------------------------------------------      |      --------------------------------------------- |               |      
+                            ACTION CAMS                            |     |                |              |              |               |      
+           ---------   ---------   ---------   ---------           |     |                |              |              |               |      
+          |         | |         | |         | |         |          |     |   B Overview   |   B Short    |    B Long    |               |      
+          |   F1    | |   F2    | |   F3    | |   F4    |          |     |       (4)      |     (5)      |     (6)      |               |      
+          |         | |         | |         | |         |          |     |                |              |              |               |      
+           ---------   ---------   ---------   ---------           |     |                |              |              |               |      
+            A Over      A Main      A Short      A Long            |      --------------------------------------------- | ==============       
+                                                                   |     |                |              |              |               |      
+           ---------   ---------   ---------   ---------           |     |                |              |              |               |      
+          |         | |         | |         | |         |          |     |  Mid Overview  |    Mid > A   |    Mid > B   |               |      
+          |   F5    | |   F6    | |   F7    | |   F8    |          |     |       (1)      |     (2)      |     (3)      |               |      
+          |         | |         | |         | |         |          |     |                |              |              |               |      
+           ---------   ---------   ---------   ---------           |     |                |              |              |               |      
+            B Over      B Main      B Short      B Long            |      ==============================================                |      
+                                                                   |     |                               |              |               |      
+           ---------   ---------   ---------   ---------           |     |                               |              |               |      
+          |         | |         | |         | |         |          |     |          Decorative 1         |    Deco 2    |   Landmark 2  |      
+          |   F9    | |   F10   | |   F11   | |   F12   |          |     |              (0)              |      (.)     |    (enter)    |      
+          |         | |         | |         | |         |          |     |                               |              |               |      
+           ---------   ---------   ---------   ---------           |     |                               |              |               |      
+              Mid       Alt Mid     Mid > CT    Mid > T            |      --------------------------------------------------------------       
+_______________________________________________________________________________________________________________________________________________
 
 ![](https://alexonyourscreen.com/app/img/scope_space.png)
